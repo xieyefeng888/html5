@@ -1,3 +1,4 @@
 function btnAction(){
-	alert(1)
+	alert(2222)
+	console.log(qqq)
 }
